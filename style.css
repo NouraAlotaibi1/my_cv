@@ -1,0 +1,142 @@
+body {
+  background-color:rgb(232, 185, 228);
+  margin: 50px;
+  padding: 20px;
+  border-style: solid;
+}
+
+.per {
+  display: flex;
+  padding: 50px 40px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.per .icon h3 {
+  color: black;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.per .icon i {
+  color: black;
+}
+
+.per p {
+  color: black;
+}
+
+.per img {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.per h1 {
+  color: #001524;
+  font-size: 50px;
+  margin: 20px 0;
+}
+
+.per span {
+  color: #445d48;
+  font-size: 22px;
+  font-weight: 700;
+}
+
+hr {
+  height: 2px;
+  background-color: #445d48;
+  opacity: 1;
+  border: 0;
+  margin: 10px 0;
+  margin-right: 30px;
+}
+
+.edu {
+  padding: 40px;
+}
+
+.edu div {
+  display: flex;
+  gap: 30px;
+}
+
+.edu h2 {
+  font-style: italic;
+  color: #001524;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.edu h3 {
+  color: #001524;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.edu span {
+  color: #445d48;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.edu ul {
+  color: black;
+
+  line-height: 2;
+}
+
+.pro {
+  padding: 40px 100px;
+}
+
+.pro h2 {
+  font-style: italic;
+  text-align: center;
+  color: #001524;
+  font-size: 45px;
+  font-weight: 700;
+}
+
+.pro .data-pro img {
+  width: 300px;
+  margin-top: 50px;
+
+}
+
+.pro .data-pro h3 {
+  color: #445d48;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 20px 0;
+}
+
+.pro .data-pro p {
+  color: black;
+
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+
+.pro .data-pro a {
+  margin-right: 10px;
+  color: rgb(50, 58, 2);
+  font-weight: 900;
+}
+
+.contact {
+  padding: 40px 100px;
+}
+
+.contact h2 {
+  font-style: italic;
+  color: #001524;
+  font-size: 45px;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-align: center;
+}
